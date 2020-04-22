@@ -4,15 +4,15 @@
     "databaseName": "ganatanbackend",
     "url": "http://localhost:5200/",
     "login":"postgres",
-    "password":"Pw102800",
+    "password":"your_password",
     "port": 5200
   },
   "prod": {
     "application": "ganatanbackend",
     "databaseName": "ganatanbackend",
-    "url": "http://localhost:5200/",
+    "url": "https://www.yourapi.com/",
     "login":"postgres",
-    "password":"Pw102800",
+    "password":"your_password",
     "port": 5200
   }
 }
